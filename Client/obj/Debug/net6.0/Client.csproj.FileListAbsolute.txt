@@ -1,0 +1,15 @@
+D:\E\Learning\DH\HK4\LTM\Lab03\ChatApp\Client\bin\Debug\net6.0\Client.exe
+D:\E\Learning\DH\HK4\LTM\Lab03\ChatApp\Client\bin\Debug\net6.0\Client.deps.json
+D:\E\Learning\DH\HK4\LTM\Lab03\ChatApp\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+D:\E\Learning\DH\HK4\LTM\Lab03\ChatApp\Client\bin\Debug\net6.0\Client.dll
+D:\E\Learning\DH\HK4\LTM\Lab03\ChatApp\Client\bin\Debug\net6.0\Client.pdb
+D:\E\Learning\DH\HK4\LTM\Lab03\ChatApp\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+D:\E\Learning\DH\HK4\LTM\Lab03\ChatApp\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\E\Learning\DH\HK4\LTM\Lab03\ChatApp\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+D:\E\Learning\DH\HK4\LTM\Lab03\ChatApp\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+D:\E\Learning\DH\HK4\LTM\Lab03\ChatApp\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+D:\E\Learning\DH\HK4\LTM\Lab03\ChatApp\Client\obj\Debug\net6.0\Client.dll
+D:\E\Learning\DH\HK4\LTM\Lab03\ChatApp\Client\obj\Debug\net6.0\refint\Client.dll
+D:\E\Learning\DH\HK4\LTM\Lab03\ChatApp\Client\obj\Debug\net6.0\Client.pdb
+D:\E\Learning\DH\HK4\LTM\Lab03\ChatApp\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+D:\E\Learning\DH\HK4\LTM\Lab03\ChatApp\Client\obj\Debug\net6.0\ref\Client.dll

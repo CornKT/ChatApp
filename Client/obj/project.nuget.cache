@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6t55p3B8azvYH25p34sG4zpcC8to7D720f+sx3KqBklzQXdS7lMogEHHGeYPmLdmUpSdYcJEj6ypw/A3zxxqYA==",
+  "success": true,
+  "projectFilePath": "D:\\E\\Learning\\DH\\HK4\\LTM\\Lab03\\ChatApp\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

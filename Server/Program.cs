@@ -17,7 +17,7 @@ class SimpleUdpSrvr
         recv = newsock.ReceiveFrom(data, ref Remote);
         Console.WriteLine("Thong diep duoc nhan tu {0}:", Remote.ToString());
         Console.WriteLine(Encoding.ASCII.GetString(data, 0, recv));
-        string welcome = "Hello Client";
+        string welcome = "Ket noi thanh cong!";
         data = Encoding.ASCII.GetBytes(welcome);
         newsock.SendTo(data, data.Length, SocketFlags.None, Remote);
         while (true)

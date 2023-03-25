@@ -10,7 +10,7 @@ class SimpleUdpClient
         string input, stringData;
         IPEndPoint ipep = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 5000);
         Socket server = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
-        string welcome = "Hello server";
+        string welcome = "Ket noi thanh cong!";
         data = Encoding.ASCII.GetBytes(welcome);
         server.SendTo(data, data.Length, SocketFlags.None, ipep);
         IPEndPoint sender = new IPEndPoint(IPAddress.Any, 0);
